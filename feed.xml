@@ -3,7 +3,7 @@
     <title>maicoqb</title>
     <link href="//maicoqb.github.io/feed.xml" rel="self"/>
     <link href="//maicoqb.github.io/"/>
-    <updated>2017-05-02T19:41:19+00:00</updated>
+    <updated>2017-05-03T12:46:29+00:00</updated>
     <id>//maicoqb.github.io</id>
     <author>
         <name>Maico Borges</name>
@@ -15,7 +15,7 @@
             <link href="//maicoqb.github.io/blog/2017/04/criando-o-piece"/>
             <updated>2017-04-26T00:00:00+00:00</updated>
             <id>//maicoqb.github.io__criando-o-piece</id>
-            <content type="html">&lt;p&gt;No meu [primeiro post]({{ $page-&amp;gt;site-&amp;gt;baseurl }}/blog/2017/04/hello-world/) me comprometi em explicar o que fiz pra criar esse blog.&lt;/p&gt;
+            <content type="html">&lt;p&gt;No meu &lt;a href=&quot;/blog/2017/04/hello-world/&quot;&gt;primeiro post&lt;/a&gt; me comprometi em explicar o que fiz pra criar esse blog.&lt;/p&gt;
 &lt;h3&gt;Do Início&lt;/h3&gt;
 &lt;p&gt;Essa é minha terceira GH Pages. Tive alguns problemas nas outras e fui apagando.&lt;/p&gt;
 &lt;p&gt;A primeira eu criei com o &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;, e utilizei o &lt;a href=&quot;http://getpoole.com/&quot;&gt;Poole&lt;/a&gt; como template.&lt;/p&gt;
@@ -47,7 +47,8 @@ Sem falar que eu já estou familiarizado com o Blade, não preciso utilizar Twig
 &lt;hr /&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;del&gt;Vou fazer um post falando do que fiz pra chegar até aqui e quando estiver pronto eu coloco o link aqui.&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;Fiz um post falando um pouco do que eu fiz pra criar esse blog. Dá uma olhada [aqui]({{ $page-&amp;gt;site-&amp;gt;baseurl }}/blog/2017/04/criando-o-piece/)&lt;/p&gt;
+&lt;p&gt;Fiz um post falando um pouco do que eu fiz pra criar esse blog.
+Dá uma olhada &lt;a href=&quot;/blog/2017/04/criando-o-piece/&quot;&gt;aqui&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;</content>
         </entry>
     
