@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom">
 
     <title>maicoqb</title>
-    <link href="//maicoqb.github.io/feed.xml" rel="self"/>
-    <link href="//maicoqb.github.io/"/>
-    <updated>2017-05-03T12:46:29+00:00</updated>
-    <id>//maicoqb.github.io</id>
+    <link href="https://maicoqb.github.io/feed.xml" rel="self"/>
+    <link href="https://maicoqb.github.io/"/>
+    <updated>2017-05-08T14:28:23+00:00</updated>
+    <id>https://maicoqb.github.io</id>
     <author>
         <name>Maico Borges</name>
         <email>maicoqb@gmail.com</email>
@@ -12,9 +12,9 @@
 
             <entry>
             <title>Criando o Piece</title>
-            <link href="//maicoqb.github.io/blog/2017/04/criando-o-piece"/>
+            <link href="https://maicoqb.github.io/blog/2017/04/criando-o-piece"/>
             <updated>2017-04-26T00:00:00+00:00</updated>
-            <id>//maicoqb.github.io__criando-o-piece</id>
+            <id>https://maicoqb.github.io__criando-o-piece</id>
             <content type="html">&lt;p&gt;No meu &lt;a href=&quot;/blog/2017/04/hello-world/&quot;&gt;primeiro post&lt;/a&gt; me comprometi em explicar o que fiz pra criar esse blog.&lt;/p&gt;
 &lt;h3&gt;Do Início&lt;/h3&gt;
 &lt;p&gt;Essa é minha terceira GH Pages. Tive alguns problemas nas outras e fui apagando.&lt;/p&gt;
@@ -37,9 +37,9 @@ Sem falar que eu já estou familiarizado com o Blade, não preciso utilizar Twig
         </entry>
             <entry>
             <title>Hello World!</title>
-            <link href="//maicoqb.github.io/blog/2017/04/hello-world"/>
+            <link href="https://maicoqb.github.io/blog/2017/04/hello-world"/>
             <updated>2017-04-19T00:00:00+00:00</updated>
-            <id>//maicoqb.github.io__hello-world</id>
+            <id>https://maicoqb.github.io__hello-world</id>
             <content type="html">&lt;h3&gt;Olá Mundo!&lt;/h3&gt;
 &lt;p&gt;Seja bem vindo, e não repara a bagunça.&lt;/p&gt;
 &lt;p&gt;Espere que goste do que vai encontrar aqui.&lt;/p&gt;
